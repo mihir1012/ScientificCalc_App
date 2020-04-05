@@ -1,0 +1,2 @@
+rootProject.name='Fancy Cal-c'
+include ':app'
